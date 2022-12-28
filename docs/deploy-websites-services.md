@@ -166,7 +166,7 @@ Happy Deployments!
 ---
 ## Azure Container Apps Demo
 
-To run the Azure Container Apps demo that we showcased at .NET Conf, checkout the [Azure Container Apps](images/demos/azurecontainerapps).
+To run the Azure Container Apps demo that we showcased at .NET Conf, checkout the [Azure Container Apps](demos/azurecontainerapps).
 
 ## Individual Deployment Guides and Configurations
 
